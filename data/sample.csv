@@ -1,0 +1,402 @@
+kreis,2018_suchende_pro_stelle,kreis_name
+1001,12.48,"Flensburg, Stadt    "
+1002,11.13,"Kiel, Landeshauptstadt    "
+1003,9.35,"Lübeck, Hansestadt    "
+1004,8.92,"Neumünster, Stadt    "
+1051,13.30,Dithmarschen
+1053,10.90,Herzogtum Lauenburg
+1054,6.21,Nordfriesland
+1055,9.61,Ostholstein
+1056,7.11,Pinneberg
+1057,13.20,Plön
+1058,9.38,Rendsburg-Eckernförde
+1059,9.07,Schleswig-Flensburg
+1060,6.30,Segeberg
+1061,13.33,Steinburg
+1062,5.23,Stormarn
+2000,8.12,"Hamburg, Freie und Hansestadt  "
+3101,5.96,"Braunschweig, Stadt    "
+3102,11.56,"Salzgitter, Stadt    "
+3103,2.83,"Wolfsburg, Stadt    "
+3151,8.61,Gifhorn
+3153,9.74,Goslar
+3154,9.33,Helmstedt
+3155,8.92,Northeim
+3157,9.79,Peine
+3158,15.13,Wolfenbüttel
+3159,8.79,Göttingen
+3241,9.42,Region Hannover
+3251,6.06,Diepholz
+3252,9.56,Hameln-Pyrmont
+3254,9.60,Hildesheim
+3255,10.21,Holzminden
+3256,8.31,Nienburg (Weser)
+3257,8.96,Schaumburg
+3351,9.08,Celle
+3352,11.10,Cuxhaven
+3353,6.21,Harburg
+3354,13.11,Lüchow-Dannenberg
+3355,6.34,Lüneburg
+3356,6.73,Osterholz
+3357,4.40,Rotenburg (Wümme)
+3358,6.13,Heidekreis
+3359,8.10,Stade
+3360,7.51,Uelzen
+3361,3.72,Verden
+3401,13.62,"Delmenhorst, Stadt    "
+3402,4.03,"Emden, Stadt    "
+3403,7.95,"Oldenburg (Oldenburg), Stadt   "
+3404,6.19,"Osnabrück, Stadt    "
+3405,11.65,"Wilhelmshaven, Stadt    "
+3451,5.84,Ammerland
+3452,9.09,Aurich
+3453,7.60,Cloppenburg
+3454,3.38,Emsland
+3455,8.18,Friesland
+3456,3.41,Grafschaft Bentheim
+3457,7.79,Leer
+3458,6.23,Oldenburg
+3459,3.93,Osnabrück
+3460,4.22,Vechta
+3461,9.52,Wesermarsch
+3462,12.27,Wittmund
+4011,10.88,"Bremen, Stadt    "
+4012,14.25,"Bremerhaven, Stadt    "
+5111,8.10,"Düsseldorf, Stadt    "
+5112,13.06,"Duisburg, Stadt    "
+5113,13.98,"Essen, Stadt    "
+5114,10.42,"Krefeld, Stadt    "
+5116,7.06,"Mönchengladbach, Stadt    "
+5117,2.48,"Mülheim an der Ruhr, Stadt "
+5119,17.19,"Oberhausen, Stadt    "
+5120,12.97,"Remscheid, Stadt    "
+5122,14.13,"Solingen, Klingenstadt    "
+5124,17.37,"Wuppertal, Stadt    "
+5154,8.58,Kleve
+5158,11.61,Mettmann
+5162,9.88,Rhein-Kreis Neuss
+5166,9.84,Viersen
+5170,9.19,Wesel
+5314,6.68,"Bonn, Stadt    "
+5315,11.11,"Köln, Stadt    "
+5316,14.05,"Leverkusen, Stadt    "
+5334,8.70,Städteregion Aachen
+5358,9.06,Düren
+5362,11.11,Rhein-Erft-Kreis
+5366,8.17,Euskirchen
+5370,8.02,Heinsberg
+5374,7.57,Oberbergischer Kreis
+5378,12.51,Rheinisch-Bergischer Kreis
+5382,9.86,Rhein-Sieg-Kreis
+5512,13.03,"Bottrop, Stadt    "
+5513,20.08,"Gelsenkirchen, Stadt    "
+5515,5.49,"Münster, Stadt    "
+5554,5.64,Borken
+5558,6.03,Coesfeld
+5562,12.50,Recklinghausen
+5566,5.02,Steinfurt
+5570,7.21,Warendorf
+5711,9.51,"Bielefeld, Stadt    "
+5754,7.49,Gütersloh
+5758,6.63,Herford
+5762,4.79,Höxter
+5766,14.05,Lippe
+5770,5.45,Minden-Lübbecke
+5774,7.99,Paderborn
+5911,11.59,"Bochum, Stadt    "
+5913,11.02,"Dortmund, Stadt    "
+5914,10.79,"Hagen, Stadt der FernUniversi.  "
+5915,10.03,"Hamm, Stadt    "
+5916,21.49,"Herne, Stadt    "
+5954,12.30,Ennepe-Ruhr-Kreis
+5958,7.18,Hochsauerlandkreis
+5962,7.35,Märkischer Kreis
+5966,6.00,Olpe
+5970,8.54,Siegen-Wittgenstein
+5974,6.16,Soest
+5978,12.41,Unna
+6411,6.12,"Darmstadt, Wissenschaftsstadt    "
+6412,4.76,"Frankfurt am Main, Stadt  "
+6413,13.26,"Offenbach am Main, Stadt  "
+6414,8.18,"Wiesbaden, Landeshauptstadt    "
+6431,7.06,Bergstraße
+6432,5.60,Darmstadt-Dieburg
+6433,9.62,Groß-Gerau
+6434,6.99,Hochtaunuskreis
+6435,8.25,Main-Kinzig-Kreis
+6436,8.36,Main-Taunus-Kreis
+6437,7.51,Odenwaldkreis
+6438,7.87,Offenbach
+6439,6.12,Rheingau-Taunus-Kreis
+6440,6.16,Wetteraukreis
+6531,6.47,Gießen
+6532,7.67,Lahn-Dill-Kreis
+6533,8.01,Limburg-Weilburg
+6534,4.57,Marburg-Biedenkopf
+6535,5.71,Vogelsbergkreis
+6611,9.50,"Kassel, documenta-Stadt    "
+6631,3.47,Fulda
+6632,4.60,Hersfeld-Rotenburg
+6633,10.96,Kassel
+6634,8.46,Schwalm-Eder-Kreis
+6635,6.77,Waldeck-Frankenberg
+6636,12.41,Werra-Meißner-Kreis
+7111,5.62,"Koblenz, kreisfreie Stadt   "
+7131,8.99,Ahrweiler
+7132,10.55,Altenkirchen (Westerwald)
+7133,9.05,Bad Kreuznach
+7134,8.73,Birkenfeld
+7135,5.84,Cochem-Zell
+7137,5.13,Mayen-Koblenz
+7138,7.18,Neuwied
+7140,4.94,Rhein-Hunsrück-Kreis
+7141,8.05,Rhein-Lahn-Kreis
+7143,4.01,Westerwaldkreis
+7211,4.94,"Trier, kreisfreie Stadt   "
+7231,4.40,Bernkastel-Wittlich
+7232,4.55,Eifelkreis Bitburg-Prüm
+7233,5.43,Vulkaneifel
+7235,5.44,Trier-Saarburg
+7311,12.50,"Frankenthal (Pfalz), kr.f. St.  "
+7312,7.60,"Kaiserslautern, kreisfr. Stadt   "
+7313,4.47,"Landau in der Pfalz, kr.f. St."
+7314,7.41,"Ludwigshafen am Rhein, Stadt  "
+7315,5.61,"Mainz, kreisfreie Stadt   "
+7316,11.52,"Neustadt an der Weinstraße,St.  "
+7317,10.76,"Pirmasens, kreisfreie Stadt   "
+7318,5.70,"Speyer, kreisfreie Stadt   "
+7319,7.33,"Worms, kreisfreie Stadt   "
+7320,6.66,"Zweibrücken, kreisfreie Stadt   "
+7331,5.36,Alzey-Worms
+7332,7.64,Bad Dürkheim
+7333,7.38,Donnersbergkreis
+7334,8.55,Germersheim
+7335,8.42,Kaiserslautern
+7336,15.54,Kusel
+7337,6.43,Südliche Weinstraße
+7338,9.40,Rhein-Pfalz-Kreis
+7339,6.48,Mainz-Bingen
+7340,11.30,Südwestpfalz
+8111,4.34,"Stuttgart, Landeshauptstadt    "
+8115,5.07,Böblingen
+8116,3.04,Esslingen
+8117,3.11,Göppingen
+8118,3.88,Ludwigsburg
+8119,6.06,Rems-Murr-Kreis
+8121,4.73,"Heilbronn, Stadt    "
+8125,4.59,Heilbronn
+8126,3.08,Hohenlohekreis
+8127,3.63,Schwäbisch Hall
+8128,2.64,Main-Tauber-Kreis
+8135,6.24,Heidenheim
+8136,2.99,Ostalbkreis
+8211,4.39,"Baden-Baden, Stadt    "
+8212,7.03,"Karlsruhe, Stadt    "
+8215,6.32,Karlsruhe
+8216,5.38,Rastatt
+8221,4.73,"Heidelberg, Stadt    "
+8222,6.86,"Mannheim, Universitätsstadt    "
+8225,5.35,Neckar-Odenwald-Kreis
+8226,8.34,Rhein-Neckar-Kreis
+8231,7.75,"Pforzheim, Stadt    "
+8235,5.23,Calw
+8236,4.25,Enzkreis
+8237,3.41,Freudenstadt
+8311,5.95,"Freiburg im Breisgau, Stadt  "
+8315,4.71,Breisgau-Hochschwarzwald
+8316,6.76,Emmendingen
+8317,3.25,Ortenaukreis
+8325,2.59,Rottweil
+8326,3.04,Schwarzwald-Baar-Kreis
+8327,2.23,Tuttlingen
+8335,4.57,Konstanz
+8336,4.30,Lörrach
+8337,2.76,Waldshut
+8415,5.12,Reutlingen
+8416,6.24,Tübingen
+8417,4.87,Zollernalbkreis
+8421,2.72,"Ulm, Universitätsstadt    "
+8425,3.32,Alb-Donau-Kreis
+8426,2.87,Biberach
+8435,3.56,Bodenseekreis
+8436,2.66,Ravensburg
+8437,4.66,Sigmaringen
+9161,2.06,"Ingolstadt, Stadt    "
+9162,8.07,"München, Landeshauptstadt    "
+9163,4.33,"Rosenheim, Stadt    "
+9171,7.54,Altötting
+9172,5.84,Berchtesgadener Land
+9173,4.11,Bad Tölz-Wolfratshausen
+9174,4.78,Dachau
+9175,3.69,Ebersberg
+9176,2.59,Eichstätt
+9177,4.57,Erding
+9178,2.74,Freising
+9179,6.37,Fürstenfeldbruck
+9180,4.27,Garmisch-Partenkirchen
+9181,3.87,Landsberg am Lech
+9182,4.14,Miesbach
+9183,5.41,Mühldorf a.Inn
+9184,3.97,München
+9185,3.13,Neuburg-Schrobenhausen
+9186,2.93,Pfaffenhofen a.d.Ilm
+9187,4.38,Rosenheim
+9188,4.39,Starnberg
+9189,4.89,Traunstein
+9190,4.66,Weilheim-Schongau
+9261,4.64,"Landshut, Stadt    "
+9262,3.91,"Passau, Stadt    "
+9263,5.32,"Straubing, Stadt    "
+9271,4.45,Deggendorf
+9272,6.10,Freyung-Grafenau
+9273,3.90,Kelheim
+9274,5.24,Landshut
+9275,5.35,Passau
+9276,6.97,Regen
+9277,5.70,Rottal-Inn
+9278,7.25,Straubing-Bogen
+9279,4.69,Dingolfing-Landau
+9361,6.25,"Amberg, Stadt    "
+9362,3.34,"Regensburg, Stadt    "
+9363,6.21,"Weiden i.d.OPf., Stadt   "
+9371,6.00,Amberg-Sulzbach
+9372,3.60,Cham
+9373,4.08,Neumarkt i.d.OPf.
+9374,6.52,Neustadt a.d.Waldnaab
+9375,4.29,Regensburg
+9376,3.52,Schwandorf
+9377,7.46,Tirschenreuth
+9461,4.02,"Bamberg, Stadt    "
+9462,5.09,"Bayreuth, Stadt    "
+9463,4.25,"Coburg, Stadt    "
+9464,7.06,"Hof, Stadt    "
+9471,5.27,Bamberg
+9472,9.09,Bayreuth
+9473,5.33,Coburg
+9474,5.12,Forchheim
+9475,5.17,Hof
+9476,6.02,Kronach
+9477,7.45,Kulmbach
+9478,4.82,Lichtenfels
+9479,7.69,Wunsiedel i.Fichtelgebirge
+9561,5.30,"Ansbach, Stadt    "
+9562,4.53,"Erlangen, Stadt    "
+9563,8.55,"Fürth, Stadt    "
+9564,7.43,"Nürnberg, Stadt    "
+9565,7.17,"Schwabach, Stadt    "
+9571,3.35,Ansbach
+9572,4.81,Erlangen-Höchstadt
+9573,7.60,Fürth
+9574,5.34,Nürnberger Land
+9575,3.98,Neustadt a.d.Aisch-Bad Windsh.
+9576,3.64,Roth
+9577,3.72,Weißenburg-Gunzenhausen
+9661,5.23,"Aschaffenburg, Stadt    "
+9662,4.12,"Schweinfurt, Stadt    "
+9663,4.06,"Würzburg, Stadt    "
+9671,5.28,Aschaffenburg
+9672,4.33,Bad Kissingen
+9673,4.37,Rhön-Grabfeld
+9674,5.72,Haßberge
+9675,4.94,Kitzingen
+9676,4.81,Miltenberg
+9677,4.57,Main-Spessart
+9678,7.00,Schweinfurt
+9679,4.90,Würzburg
+9761,5.14,"Augsburg, Stadt    "
+9762,6.11,"Kaufbeuren, Stadt    "
+9763,3.65,"Kempten (Allgäu), Stadt   "
+9764,2.58,"Memmingen, Stadt    "
+9771,6.29,Aichach-Friedberg
+9772,4.92,Augsburg
+9773,3.81,Dillingen a.d.Donau
+9774,2.50,Günzburg
+9775,3.72,Neu-Ulm
+9776,2.42,Lindau (Bodensee)
+9777,4.04,Ostallgäu
+9778,3.36,Unterallgäu
+9779,2.39,Donau-Ries
+9780,3.60,Oberallgäu
+10041,12.09,Regionalverband Saarbrücken
+10042,7.44,Merzig-Wadern
+10043,13.56,Neunkirchen
+10044,6.85,Saarlouis
+10045,6.30,Saarpfalz-Kreis
+10046,3.95,St. Wendel
+11000,16.94,"Berlin, Stadt    "
+12051,21.73,"Brandenburg an der Havel, St. "
+12052,11.78,"Cottbus, Stadt    "
+12053,12.61,"Frankfurt (Oder), Stadt   "
+12054,8.68,"Potsdam, Stadt    "
+12060,13.51,Barnim
+12061,8.80,Dahme-Spreewald
+12062,14.50,Elbe-Elster
+12063,9.38,Havelland
+12064,17.21,Märkisch-Oderland
+12065,9.97,Oberhavel
+12066,13.11,Oberspreewald-Lausitz
+12067,13.51,Oder-Spree
+12068,18.39,Ostprignitz-Ruppin
+12069,8.68,Potsdam-Mittelmark
+12070,19.40,Prignitz
+12071,15.69,Spree-Neiße
+12072,7.83,Teltow-Fläming
+12073,19.09,Uckermark
+13003,17.15,"Rostock, Hansestadt    "
+13004,8.23,"Schwerin, Landeshauptstadt    "
+13071,13.32,Mecklenburgische Seenplatte
+13072,15.33,Landkreis Rostock
+13073,13.68,Vorpommern-Rügen
+13074,9.91,Nordwestmecklenburg
+13075,17.58,Vorpommern-Greifswald
+13076,10.90,Ludwigslust-Parchim
+14511,9.41,"Chemnitz, Stadt    "
+14521,10.99,Erzgebirgskreis
+14522,9.74,Mittelsachsen
+14523,6.32,Vogtlandkreis
+14524,10.84,Zwickau
+14612,12.30,"Dresden, Stadt    "
+14625,9.00,Bautzen
+14626,17.76,Görlitz
+14627,8.52,Meißen
+14628,12.52,Sächs. Schweiz-Osterzgebirge
+14713,11.35,"Leipzig, Stadt    "
+14729,14.72,Leipzig
+14730,12.21,Nordsachsen
+15001,16.77,"Dessau-Roßlau, Stadt    "
+15002,12.58,"Halle (Saale), Stadt   "
+15003,11.32,"Magdeburg, Landeshauptstadt    "
+15081,9.13,Altmarkkreis Salzwedel
+15082,10.12,Anhalt-Bitterfeld
+15083,12.23,Börde
+15084,15.38,Burgenlandkreis
+15085,10.72,Harz
+15086,19.20,Jerichower Land
+15087,21.54,Mansfeld-Südharz
+15088,13.76,Saalekreis
+15089,15.70,Salzlandkreis
+15090,15.08,Stendal
+15091,19.38,Wittenberg
+16051,8.80,"Erfurt, Stadt    "
+16052,8.99,"Gera, Stadt    "
+16053,4.44,"Jena, Stadt    "
+16054,6.61,"Suhl, Stadt    "
+16055,8.36,"Weimar, Stadt    "
+16056,3.29,"Eisenach, Stadt    "
+16061,6.64,Eichsfeld
+16062,21.59,Nordhausen
+16063,5.26,Wartburgkreis
+16064,14.54,Unstrut-Hainich-Kreis
+16065,26.05,Kyffhäuserkreis
+16066,6.64,Schmalkalden-Meiningen
+16067,8.99,Gotha
+16068,9.94,Sömmerda
+16069,3.50,Hildburghausen
+16070,9.13,Ilm-Kreis
+16071,9.13,Weimarer Land
+16072,4.40,Sonneberg
+16073,9.20,Saalfeld-Rudolstadt
+16074,8.90,Saale-Holzland-Kreis
+16075,5.99,Saale-Orla-Kreis
+16076,10.77,Greiz
+16077,15.99,Altenburger Land

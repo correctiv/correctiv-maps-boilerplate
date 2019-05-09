@@ -1,0 +1,96 @@
+.example-map-wrapper {
+  position: relative;
+  width: 100%;
+}
+.example-map-wrapper .example-map svg path {
+  opacity: 0.8;
+  stroke: #424948;
+  stroke-width: 0.5;
+}
+.example-map-wrapper .example-map svg path.-hilight {
+  stroke-width: 2px;
+  stroke: #fff;
+  opacity: 1;
+}
+.example-map-wrapper .example-map__legend {
+  position: absolute;
+  top: 22px;
+  left: 22px;
+  padding: 0 4px 6px 8px;
+  background-color: #fff;
+  opacity: 0.8;
+  color: #000;
+}
+.example-map-wrapper .example-map__legend ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.example-map-wrapper .example-map__legend ul li {
+  display: inline;
+  padding: 3px;
+  font-feature-settings: 'tnum';
+  font-family: sans-serif;
+  font-size: 10px;
+}
+.example-map-wrapper .example-map__info-wrapper {
+  display: block;
+  position: relative;
+  top: -30px;
+  border: 1px solid #dadada;
+  background: #fff;
+  padding: 10px;
+  margin: 0 10px;
+}
+@media (min-width: 992px) {
+  .example-map-wrapper .example-map__info-wrapper {
+    position: absolute;
+    top: 22px;
+    right: 22px;
+    width: 30%;
+    margin: 0;
+    background-color: #fff;
+  }
+}
+.example-map-wrapper .example-map__infobox h3,
+.example-map-wrapper .example-map__infobox h4 {
+  line-height: 100%;
+}
+.example-map-wrapper .example-map__infobox h3 {
+  margin-top: 10px;
+  font-family: 'Merriweather', serif;
+  font-weight: normal;
+  padding-left: 2px;
+  font-size: 20px;
+}
+.example-map-wrapper .example-map__infobox h4 {
+  margin-top: 15px;
+}
+.example-map-wrapper .example-map__infobox p {
+  color: #555;
+}
+.example-map-wrapper .example-map__infobox p.infobox__description {
+  font-size: 15px;
+}
+.example-map-wrapper .example-map__infobox p.infobox__annotation {
+  font-size: 12px;
+  font-style: italic;
+}
+.example-map-wrapper .example-map__infobox p.infobox__data {
+  font-size: 15px;
+}
+.example-map-wrapper .example-map__selector select {
+  width: 100%;
+  background: #fff;
+  font-size: 15px;
+}
+@media (min-width: 992px) {
+  .example-map-wrapper .example-map__selector select {
+    font-size: 20px;
+  }
+}
+.example-map-wrapper .example-map__selector select option {
+  padding-left: 0;
+  margin-left: 0;
+}
+/*# sourceMappingURL=style.css.map */
